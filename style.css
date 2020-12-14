@@ -1,0 +1,73 @@
+body {
+    background-image: url('dzsungel.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin-left: 85px;
+    color: green;
+    font-variant: small-caps;
+}
+
+h2 {
+    margin-left: 85px;
+    color: green;
+    font-variant: small-caps;
+}
+
+img {
+    width: 300px;
+    border: 5px solid green;
+}
+
+ul.a {
+    list-style-type: circle;
+}
+
+video {
+    width: 420px;
+}
+
+.háttér {
+    width: 700px;
+    height: 1000px;
+    background-color: white;
+    background-color:rgba(255,255,255,0.7);
+    margin: auto;
+    text-align: left;
+}
+
+.kep {
+    float: right;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.szoveg {
+    width: 550px;
+    margin-left: 85px;
+    font-size: 90%;
+}
+
+.szoveg1 {
+    margin-left: 107px;
+    font-size: 90%;
+}
+
+.felsorolás {
+    margin-left: 85px;
+    font-size: 90%;
+}
+
+.form {
+    float: right;
+    margin-right: 30px;
+    font-size: 90%;
+}
+
+.video {
+    margin-left: 120px;
+}
